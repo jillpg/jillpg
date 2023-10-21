@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jill Palma Garro</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
-- 🌱 I’m currently learning **AI and Big Data**
+- 🌱 I’m currently learning **AI, Big Data and Web Development**
 
 - 📫 How to reach me **jpalmagarro@gmail.com**
 
